@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<title> Alena's Web Page Home  </title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<nav>
+<ul>
+	<li><a href="index.html">Home</a> Tate Bird </li>
+	<li><a href="Imagegallery.html">Gallery</a></li>
+	
+<style>
+
+h1 {background-color:#000080;
+	padding:5px;
+	color:#FFFFFF
+	border-style: dotted;
+	border width: 10px;
+	border height: 10px;
+}
+
+p {font-family:'Comic sans';
+   font-size: 12pt;
+   color: #000000;
+
+}
+
+nav {background-color:#000080;
+	padding:5px;
+	color:#FFFFFF
+	border-style: dotted;
+	border width: 10px;
+	border height: 10px;
+}
+
+
+
+
+
+
+
+</style>
+<body>
+<h1> Alena Marie James </h1>
+
+</head>
+		
+	<header>
+	
+	<h1> <style> h1 {background-color: black; color: white; border-style: dotted; border width: 10px}  Alena Marie Carrera James </style> </h1>
+	
+	
+<br>
+		<h2> <em> <i> Web Design </i> </em> Core Curriculum </h2> 
+<p> Lean all the various aspects of the core curriculum needed to succeed in this course. Keep doing your work and you will learn <br>
+all of this information in a just a few short 10 weeks.</p>
+
+
+</header>
+<footer>
+	<h6> Copyright &copy; Alena M. James 2016 </h6>
+</footer>
+</body>
+</html>
